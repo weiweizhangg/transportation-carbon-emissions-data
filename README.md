@@ -1,17 +1,4 @@
 # transportation-carbon-emissions-data
 This repository hosts the raw data supporting the research paper titled "Enhanced Accounting of Transport Carbon Emissions in China: A System Dynamics Analysis". All data files are provided in Comma-Separated Values (CSV) format, retaining the original structure and information collected for the study. The dataset aims to ensure transparency, reproducibility, and accessibility for reviewers and researchers interested in transportation carbon emissions research.
-1. Overview
-The repository contains a single folder named Raw data with two core CSV files, covering different time spans and variables related to transportation carbon emissions. These raw data files serve two key analytical purposes in the study: (1) analysis of influencing factors on transportation carbon emissions, and (2) input data for transportation carbon emission simulation models. All data are derived from official statistical publications and authoritative research reports to ensure reliability and accuracy.
-2. File Structure
-The repository structure is simplified to match the uploaded raw data, with no processed data or additional folders included:
-transportation-carbon-emissions-data/
-  ├── README.md
-  ├── LICENSE
-  └── Raw data/
-    ├── Data for influencing factors analysis on carbon emissions.csv
-    └── Data for carbon emission simulation model.csv
-3. Data Sources
-3.1 Data for influencing factors analysis on carbon emissions.csv
-   The data is collected from official published materials and authoritative research reports, including Statistical Communique of the Transportation Industry, China Statistical Yearbook, China Energy Statistical Yearbook.
-3.2 Data for carbon emission simulation model.csv
-   The data is collected from official materials and authoritative research reports, including China Statistical Yearbook, China Transportation Yearbook and China Energy Statistical Yearbook.
+**Overview** The repository contains a single folder named Raw data with two core CSV files, covering different time spans and variables related to transportation carbon emissions. These raw data files serve two key analytical purposes in the study: (1) analysis of influencing factors on transportation carbon emissions, and (2) input data for transportation carbon emission simulation models. All data are derived from official statistical publications and authoritative research reports to ensure reliability and accuracy.
+**Data Sources** Data for influencing factors analysis on carbon emissions.csv: the data is collected from official published materials and authoritative research reports, including Statistical Communique of the Transportation Industry, China Statistical Yearbook, China Energy Statistical Yearbook.Data for carbon emission simulation model.csv: The data is collected from official materials and authoritative research reports, including China Statistical Yearbook, China Transportation Yearbook and China Energy Statistical Yearbook.
